@@ -31,17 +31,7 @@ Built with **React + Tailwind CSS**, it ensures fast performance and mobile resp
 
 ---
 
-## 📂 Folder Structure
-frontend/
-│── src/
-│ ├── components/
-│ ├── pages/
-│ ├── services/
-│ ├── context/
-│ └── utils/
-│── public/
-│── package.json
-│── README.md
+
 
 
 ---
