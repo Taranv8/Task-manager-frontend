@@ -1,12 +1,60 @@
-# React + Vite
+# 🎨 Task Manager – Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React-based frontend for the **MERN Stack Task Manager** application.  
+Provides a clean, responsive, and user-friendly interface for managing tasks efficiently.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📖 Overview
+The frontend handles user interaction, task visualization, dashboards, and real-time UI updates.  
+Built with **React + Tailwind CSS**, it ensures fast performance and mobile responsiveness.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+- 📊 Interactive Dashboard
+- 📝 Create, Edit & Delete Tasks
+- 📌 Priority-based Task View
+- 📱 Fully Responsive Design
+- 📑 Task Reports & Charts
+- 🔐 JWT-based Authentication
+- ⚡ Real-time UI Updates
+
+---
+
+## 🛠 Tech Stack
+- **React.js**
+- **Tailwind CSS**
+- **Chart.js**
+- **Axios**
+- **JWT Authentication**
+
+---
+
+## 📂 Folder Structure
+frontend/
+│── src/
+│ ├── components/
+│ ├── pages/
+│ ├── services/
+│ ├── context/
+│ └── utils/
+│── public/
+│── package.json
+│── README.md
+
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+cd frontend
+npm install
+npm run dev
+
+```
+Frontend will start on:
+```
+http://localhost:5173
+```
