@@ -1,4 +1,4 @@
-export const BASE_URL = "http://localhost:8000";
+export const BASE_URL = "https://task-manager-backend-kappa-pied.vercel.app";
 
 // Utils/apiPaths.js
 export const API_PATHS = {
